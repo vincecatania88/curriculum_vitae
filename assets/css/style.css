@@ -33,3 +33,13 @@ body{font-family:Georgia, 'Times New Roman', Times, serif
 .text-blu {
     color: #034f84;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
