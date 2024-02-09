@@ -1,0 +1,35 @@
+body{font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+#foto {
+    border-radius: 50%;
+}
+
+.colonnasx {
+    margin-top: -30px;
+}
+
+#cognome {
+    margin-top: -20px;
+}
+
+.descr_lav {
+    margin-top: -18px;
+}
+
+#presentazione {
+    font-size: 14px;
+}
+
+#trattamento_dati {
+    font-size: 12px;
+}
+
+.bg-blu {
+    background-color: #034f84
+}
+
+.text-blu {
+    color: #034f84;
+}
